@@ -1,1 +1,23 @@
 /* to show your CSS things, you'll likely need to use this file */
+.border{
+    border: 3px solid red;
+    /* border-style: solid;
+    border-color: red yellow green yellow; */
+    } 
+
+.textshadow{
+    text-shadow: 5px 5px 2px black;
+}
+
+.cursor1{
+    cursor: pointer;
+}
+.cursor2{
+    cursor: move;
+}
+.cursor3{
+    cursor: crosshair;
+}
+.cursor4{
+    cursor: text;
+}
